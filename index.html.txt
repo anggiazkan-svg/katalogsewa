@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Katalog Sewa Kamera</title>
+<link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+
+<header>
+<h1>Katalog Sewa Kamera & Lensa</h1>
+<p>Profesional • Siap Produksi • Harga Mahasiswa</p>
+</header>
+
+<section class="catalog" id="catalog"></section>
+
+<footer>
+<p>Booking via WhatsApp • © 2025 Kamera Rental</p>
+</footer>
+
+<script src="js/data.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>
